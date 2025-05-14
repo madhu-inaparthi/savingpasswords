@@ -7,7 +7,7 @@
 
 ## 🔍 Prerequisites
 
-- Basic understanding of hashes and number systems.
+
 
 ## 🚀 Steps
 
